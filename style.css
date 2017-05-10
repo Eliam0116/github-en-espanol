@@ -6,9 +6,14 @@ img{
        height:400px;
        width: auto;
 }
+
+#especial2{
+		font-size:36px;
+        	color:#ffffff;}
+
 #special{
-        font-size:36px;
-        color: green;
+        font-size:50px;
+        color: ffffff;
 }
 body{
   background-color: #8c42f4;
